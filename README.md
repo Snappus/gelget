@@ -42,9 +42,26 @@ https://img3.gelbooru.com/images/77/0b/770b5183506a3bbfaaf88670007f2089.jpg
 https://img3.gelbooru.com/images/a5/bb/a5bb1083f59b878a97f69f16a1b88248.png
 ```
 
+# Гайд по сборке Gelget
+требования:
+- rust
+- доступ в интернет
+- cargo
+
+сборка:
+```bash
+$ git clone https://github.com/Snappus/gelget.git
+$ cd gelget
+$ cargo built --release
+$ ./target/release/gelget
+```
+
 # Будущее для Gelget
 
 В планах на будущее:
 
 - Поддержка нескольких языков для удобства пользователей.
 - Разработка более удобного интерфейса для улучшения взаимодействия с программой.
+
+## P.S
+для жителей россии придется использовать vpn)
