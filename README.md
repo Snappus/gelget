@@ -41,6 +41,9 @@ https://img3.gelbooru.com/images/c7/37/c73704d5c68f5abba4ad4510d9d6062d.jpg
 https://img3.gelbooru.com/images/77/0b/770b5183506a3bbfaaf88670007f2089.jpg
 https://img3.gelbooru.com/images/a5/bb/a5bb1083f59b878a97f69f16a1b88248.png
 ```
+## Вопросы по работе
+проверялся только на Arch linux на других дитриьутивах работу я гарантировать не могу
+а тем более на Windows))
 
 # Гайд по сборке Gelget
 требования:
